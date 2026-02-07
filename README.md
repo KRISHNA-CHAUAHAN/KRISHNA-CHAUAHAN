@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRISHNA-CHAUAHAN
 - 👀 I’m passionate about web development
-- 🌱 I’m currently learning JAVASCRIPT
-- 📫 I, have done technical skill "C, HTML, CSS"
+- 🌱 I have completed MERN FullStack
+- 📫 I, have done technical skill "C, HTML, CSS, JAVASCRIPT, TypeScript, React.js, Node.js, Express.js, Postgres, MongoDB"
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
